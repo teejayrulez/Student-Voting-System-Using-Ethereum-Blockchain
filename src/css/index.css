@@ -7,7 +7,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('../assets/build.jpg') no-repeat center center fixed;
+    background: url('../assets/people.jpg') no-repeat center center fixed;
     background-size: cover;
     position: relative;
   }
@@ -77,6 +77,7 @@ body::before {
   
   #voteButton {
     width: 40%;
+    margin-top: 2rem;
     padding: 12px;
     background-color: #198a7b;
     color: #ffffff;
